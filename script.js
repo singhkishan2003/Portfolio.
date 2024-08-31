@@ -71,8 +71,8 @@ gsap.from(content,{
     trigger:content,
     scroller:"body",
     // markers:true,
-    start:"top 70%",
-    end:"top 55%",
+    start:"top 93%",
+    end:"top 80%",
     scrub:1.5
   }
 })
