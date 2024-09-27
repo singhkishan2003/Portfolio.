@@ -1,4 +1,4 @@
-# Portfolio Project
+# Portfolio 
 
 Portfolio is a personal web project developed using HTML, CSS, JavaScript, and GSAP (GreenSock Animation Platform) for creating smooth animations. This project is designed to showcase modern web design, animation techniques, and interactive features that represent my professional work.
 
