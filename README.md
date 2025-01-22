@@ -22,7 +22,7 @@ The Portfolio project demonstrates how HTML, CSS, JavaScript, and GSAP can be co
   
 ## Usage
 
-   The Portfolio project utilizes GSAP animations for smooth transitions and interactive elements. The animations are triggered on page load, hover effects, and scrolling events, making the browsing experience seamless.
+   The Portfolio project utilizes GSAP animations for smooth transitions and interactive elements. The animations are triggered on page load, hover effects, rope animation and scrolling events, making the browsing experience seamless.
 
 ## Project Structure
 
@@ -33,10 +33,10 @@ goodtwo-project/
 │
 ├── index.html         # Main HTML file
 ├── styles.css         # Main CSS file
-├── app.js             # JavaScript for interactivity and animations
+├── script.js             # JavaScript for interactivity and animations
 </Pre>
 
 
 - *index.html*: Defines the structure of the portfolio website.
 - *styles.css*: Contains the styling rules for the design and layout.
-- *app.js*: Handles JavaScript logic and GSAP animations for interactivity.
+- *script.js*: Handles JavaScript logic and GSAP animations for interactivity.
